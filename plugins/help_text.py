@@ -41,7 +41,7 @@ async def help_user(bot, update):
         parse_mode="html",
         disable_web_page_preview=True,
         reply_to_message_id=update.message_id,
-        reply_markup=InlineKeyboardMarkup([[InlineKeyboardButton(text="⭕️ Join Updates Channel ⭕️", url="https://t.me/TeleRoidGroup")]]),
+        reply_markup=InlineKeyboardMarkup([[InlineKeyboardButton(text="⭕️ Join Updates Channel ⭕️", url="https://t.me/ytdofficial")]]),
    )
 
 
@@ -58,9 +58,9 @@ async def start(bot, update):
         parse_mode="html",
         disable_web_page_preview=True,
         reply_to_message_id=update.message_id,
-        reply_markup=InlineKeyboardMarkup( [ [ InlineKeyboardButton(text="💰 Donate 💰", url="https://PayPal.me/AbhishekKumarIN47") ], 
-                                             [ InlineKeyboardButton(text="⭕ Support Group ⭕", url="https://t.me/TeleRoid14"),
-                                               InlineKeyboardButton(text="⭕️ Updates Channel ⭕️", url="https://t.me/TeleRoidGroup") ],
+        reply_markup=InlineKeyboardMarkup( [ [ InlineKeyboardButton(text="💰 Donate 💰", url="http://t.me/donateme90_bot") ], 
+                                             [ InlineKeyboardButton(text="⭕ Support Group ⭕", url="https://t.me/ytdsupport"),
+                                               InlineKeyboardButton(text="⭕️ Updates Channel ⭕️", url="https://t.me/ytdofficial") ],
                                              [ InlineKeyboardButton(text="♻ Help ", callback_data="help"),                                                
                                                InlineKeyboardButton(text="👥 About ", callback_data="aboutbot") ], 
                                              [ InlineKeyboardButton(text="🔐 Close🔐", callback_data="close") ] ] ) )
@@ -80,5 +80,5 @@ async def about(bot, update):
         reply_to_message_id=update.message_id,
         reply_markup=InlineKeyboardMarkup( [ [ InlineKeyboardButton(text="🚸 Powered By", url="https://t.me/TeleRoidGroup") ],
                                              [ InlineKeyboardButton(text="⭕ Support Group ⭕", url="https://t.me/TeleRoid14"),
-                                               InlineKeyboardButton(text="💢 Source Code", url="https://github.com/PredatorHackerzZ") ] ] ) )
+                                               InlineKeyboardButton(text="💢 Source Code", not released) ] ] ) )
 
