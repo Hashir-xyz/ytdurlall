@@ -23,14 +23,14 @@ https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest
 heroku/python
 ```
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://www.heroku.com/deploy?template=https://github.com/PredatorHackerzZ/UPLOADER-BOT)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://www.heroku.com/deploy?template=https://github.com/Hashir-xyz/ytdurlall)
 
 
 
 ## Credits, and Thanks to
-* [@DC4_WARRIOR](https://t.me/Space_X_bots)
-* [@xgorn](https://t.me/xgorn)
-* [Me](https://t.me/TheTeleRoid) for nothing
+* [Me]
+* [Me]
+* [Me]
 
 #### LICENSE
 - GPLv3
